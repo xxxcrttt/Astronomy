@@ -80,4 +80,41 @@ But those features, known as Fermi bubbles, seem to require matter to swirl arou
 **“令我震惊的是我们正在看到它的正面” Greenbelt, Maryland的NASA戈达太空飞行中心的天文学家Regina Caputo说道。Caputo所工作的NASA费米伽马射线望远镜曾经就探测到星系中心上下的巨大发光特征。
 这可能就是人马座A星在过去激烈活动时所产生的。但是这些特征，被称为费米气泡，似乎要求物质围绕黑洞的边缘进行旋转，而不是在地球上看到的一样正面旋转。**
 
+### Extremely massive object 极大质量的物体
+
+The first hints of the existence of Sagittarius A* were seen in the 1970s, when radioastronomers discovered a seemingly point-like radio source in the central region of the Galaxy.
+
+**人马座A星存在的第一个暗示出现在1970年代, 那时射电天文学家们在星系中心发现了一个似乎是点状的射电源。**
+
+The source turned out to be unusually dim, dimmer than an average star. Still, decades-long observations of the motions of nearby stars revealed that the object was extremely massive: using the most recent observations, scientists have calculated that it is 4.15 million times the mass of the Sun, give or take 0.3%. These calculations, done by tracking how stars orbit Sagittarius A*, provided strong evidence that the radio source is so massive and dense that it could be nothing but a black hole. That work earned Andrea Ghez, an astrophysicist at the University of California, Los Angeles, and Reinhard Genzel, director of the Max Planck Institute for Extraterrestrial Physics in Garching, Germany, a share of the 2020 Nobel Prize in Physics. (The size of the dark shadow in the EHT image suggests that the black hole weighs around 4 million solar masses, which is strikingly consistent with the earlier estimates, although not as precise.)
+
+**结果发现这个源头不同寻常的黯淡，比普通的恒星还要黯. 尽管如此，对于附近恒星的运动长达数十年的观测揭露了这个物体具有极大的质量：利用最新的观测结果，科学家们计算出这个物体的质量是太阳的415万倍，误差为0.3%。这些计算是通过跟踪恒星如何围绕人马座A星旋转而得到的，它们提供了表明这个射电源的质量和密度如此大的强有力证据，表明这只能是一颗黑洞。这项研究使得 Andrea Ghez，加州大学洛杉矶分校的天文学家，和 Reinhard Genzel，德国加兴的马克斯-普朗克地外物理研究所主任，共同获得了2020年诺贝尔物理学奖。(EHT的图片中的黑色阴影的大小说明黑洞的质量是大约400万倍太阳质量，这与之前的估计惊人地一致，尽管并没有那么准确。)**
+
+<img src='https://user-images.githubusercontent.com/56160038/168482646-4751fefa-c5a6-419b-8908-0aebd59903fb.png' width=300 align=center />
+
+Sagittarius A* is practically invisible to optical telescopes because of the dust and gas on the galactic disk. But beginning in the late 1990s, Falcke and others realized that the shadow of the black hole might be large enough to be imaged with short radio waves, which can pierce that veil. But researchers calculated that doing so would require a telescope the size of Earth. Fortunately, a technique called interferometry could help. It involves simultaneously pointing multiple far-away telescopes at the same object. Effectively, the telescopes work like shards of one big dish (see ‘Global effort’).
+
+**由于银河系圆盘上的灰尘和气体，人马座A星几乎不可能用光学望远镜所见。但在1990年代初期，Falcke和其他人意识到黑洞的阴影可能足够大到可以用短无线电波来成像，即可揭开这层面筛。但是研究员们计算出这么做会要求一个和地球一样大的望远镜。幸运的是，一个叫做干涉测量的技术可以提供帮助。它包括了同时将多个要远的望远镜指向同一个物体。这些望远镜就像是在一块大盘子的随缘一样工作(如‘全球效应’)**
+
+The first attempts to observe Sagittarius A* with interferometry used relatively long 7-millimetre radio waves and observatories a few thousand kilometres apart. All astronomers could see was a blurred spot.
+
+**对于人马座A星的干涉实验的首次尝试使用了相对较长的 7mm 无线电波和相距了几千公里的观测站。天文学家们能看到的不过是一个模糊的点。**
+
+Teams across the world then refined their techniques and retrofitted major observatories that were added to the network. In particular, researchers adapted the South Pole Telescope and the US$1.4-billion Atacama Large Millimeter/submillimeter Array in Chile to do the work.
+
+**世界各地的团队随后完善了他们的技术，并对加入了网络的观测站进行了改造。特别的，研究人员对南极望远镜和位于智利的价值14亿美元的Atacama 大型毫米/亚毫米阵列进行了改造，以完成这项工作。**
+
+Then in 2015, groups joined forces as the EHT collaboration. Their 2017 observation campaign was the first to span distances long enough to resolve details such as the size of Sagittarius A*.
+
+**然后在2015年, 各个组合联合起来组成了EHT联合。他们2017年的观测活动是第一次跨越了足够长的距离来解决细节问题，比如人马座A星的大小。**
+
+### Future plans
+
+The EHT collected more data in 2018 but cancelled their planned observation campaigns in 2019 and 2020. They resumed observations in 2021 and 2022, with an improved network and more sophisticated instruments.
+
+**EHT在2018年收集了更多的数据但是取消了他们在2019和2020年的观测活动。他们于2021和2022年恢复了观测，并更新了网络和更复杂的仪器。**
+
+Remo Tilanus, an EHT member at the University of Arizona in Tucson, says the team’s latest observations, in March, recorded signals at twice the 2017 rate, most of them at 0.87-millimetre wavelength — which should help to increase the resolution of the resulting images.
+
+**图森亚利桑那大学的EHT成员Remo Tilanus表示, 团队最新的观测是在三月, 以两倍于2017年的速度记录了信号，其中大部分是0.87ms的波长 -- 这应该有助于提高结果图像的分辨率。**
 
