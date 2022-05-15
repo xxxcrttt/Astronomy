@@ -118,3 +118,10 @@ Remo Tilanus, an EHT member at the University of Arizona in Tucson, says the tea
 
 **图森亚利桑那大学的EHT成员Remo Tilanus表示, 团队最新的观测是在三月, 以两倍于2017年的速度记录了信号，其中大部分是0.87ms的波长 -- 这应该有助于提高结果图像的分辨率。**
 
+Researchers hope to find out whether Sagittarius A* has jets. Many black holes, including M87*, display two beams of matter rapidly shooting out in opposite directions, thought to be a result of the intense heating of infalling gas and powered by the black hole’s spin. Sagittarius A* might have had large jets in the past — as heated clouds of matter above and below the galactic centre suggest. Its jets would now be much weaker, but their presence could reveal important details about our Galaxy’s history.
+
+**研究者们试图找到人马座A星是否有喷射物. 很多黑洞，包括M87星，都显示出两束快速向相反方向射出的物质，这被认为是坠落气体强烈加热的结果，由黑洞的旋转提供动力。人马座A星也许在过去有着大量的喷射物 -- 正如星系中心上下方被加热的物质云所显示的那样。它的喷流现在弱了很多，但是它们的存在可以揭露出我们星系历史的重要细节。**
+
+“These jets can inhibit or induce star formation, they can move the chemical elements around,” and affect the evolution of an entire galaxy, says Falcke. “And we’re now looking at where it’s happening.”
+
+**“这些喷流可以抑制或者诱导恒星的形成，它们可以使化学元素围绕着旋转。并影响整个星系的进化." Falcke说道，现在我们正在研究它发生的地方。”**
